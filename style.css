@@ -1,0 +1,60 @@
+body {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: sans-serif;
+  border: 3px solid rgb(255, 0, 0);
+  border-radius: 10px;
+}
+.c1 {
+  background-color: gray;
+  border: 4px solid rgb(100, 187, 237);
+  border-radius: 10px;
+}
+.c1:hover {
+  background-color: cadetblue;
+}
+#div1 {
+  margin-left: 20px;
+}
+#id1 {
+  margin-right: 500px;
+  padding-left: 200px;
+}
+#img1 {
+  /* margin-right: 700px; */
+  width: 150px;
+  height: 150px;
+}
+.v1 {
+  /* margin-right: 100px; */
+  width: 300px;
+  height: 200px;
+}
+
+/* body
+{
+    margin: 0;
+    font-family: sans-serif;
+}
+.registartion-form
+{
+    background-color: #252525;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60px;
+    margin: 10rem auto 0 auto;
+}
+.registartion-form img{
+    height: 250px;
+}
+.registartion-form h1{
+    margin: 0;
+    color: greenyellow;
+}
+.registartion-form
+{
+    color: #c0c0c0;
+    margin-right: 15px
+} */
